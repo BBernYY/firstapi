@@ -1,0 +1,9 @@
+token.env
+bin/
+build/
+dist/
+include/
+lib/
+lib64/
+main.spec
+pyvenv.cfg
